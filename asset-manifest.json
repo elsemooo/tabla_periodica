@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elsemooo/tabla_periodica.git/static/css/main.091f0149.chunk.css",
+    "main.js": "/elsemooo/tabla_periodica.git/static/js/main.0a972607.chunk.js",
+    "main.js.map": "/elsemooo/tabla_periodica.git/static/js/main.0a972607.chunk.js.map",
+    "runtime-main.js": "/elsemooo/tabla_periodica.git/static/js/runtime-main.abe43fda.js",
+    "runtime-main.js.map": "/elsemooo/tabla_periodica.git/static/js/runtime-main.abe43fda.js.map",
+    "static/js/2.3870ffd7.chunk.js": "/elsemooo/tabla_periodica.git/static/js/2.3870ffd7.chunk.js",
+    "static/js/2.3870ffd7.chunk.js.map": "/elsemooo/tabla_periodica.git/static/js/2.3870ffd7.chunk.js.map",
+    "index.html": "/elsemooo/tabla_periodica.git/index.html",
+    "static/css/main.091f0149.chunk.css.map": "/elsemooo/tabla_periodica.git/static/css/main.091f0149.chunk.css.map",
+    "static/js/2.3870ffd7.chunk.js.LICENSE.txt": "/elsemooo/tabla_periodica.git/static/js/2.3870ffd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe43fda.js",
+    "static/js/2.3870ffd7.chunk.js",
+    "static/css/main.091f0149.chunk.css",
+    "static/js/main.0a972607.chunk.js"
+  ]
+}
